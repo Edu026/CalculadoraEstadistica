@@ -27,7 +27,7 @@ public class Main {
                     }
                 }
         
-                 System.out.println(cadenaDatos);
+                 System.out.println(cadenaDatos + "\n");
 
                 //Operaciones 
                 while (calculadora){
